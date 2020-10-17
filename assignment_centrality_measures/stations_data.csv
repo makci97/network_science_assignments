@@ -8,7 +8,7 @@ id,line_name,station_name,station_type,delay_morning,delay_rush,delay_night,lat,
 6,Sokolnicheskaya,Krasnye vorota,pass,120,90,360,55.76879536,37.64889473
 7,Sokolnicheskaya,Chistye prudy,cross,120,90,360,55.76479568,37.63869126
 8,Sokolnicheskaya,Lubyanka,cross,120,90,360,55.75916377,37.62734802
-9,Sokolnicheskaya,Ohotnyy ryad,cross,120,90,360,55.75656182,37.61586432
+9,Sokolnicheskaya,Ohotny ryad,cross,120,90,360,55.75656182,37.61586432
 10,Sokolnicheskaya,Biblioteka imeni Lenina,cross,120,90,360,55.751001,37.609829
 11,Sokolnicheskaya,Kropotkinskaya,pass,120,90,360,55.74507272,37.60348783
 12,Sokolnicheskaya,Park kultury,cross,120,90,360,55.73608189,37.59506679
@@ -19,7 +19,7 @@ id,line_name,station_name,station_type,delay_morning,delay_rush,delay_night,lat,
 17,Sokolnicheskaya,Prospekt Vernadskogo,pass,120,90,360,55.67691481,37.50583785
 18,Sokolnicheskaya,Yugo-Zapadnaya,deadend,120,90,360,55.66314765,37.48285221
 19,Zamoskvoretskaya,Rechnoy vokzal,deadend,120,120,360,55.85489117,37.4762329
-20,Zamoskvoretskaya,Vodnyy stadion,pass,120,120,360,55.84020993,37.48661929
+20,Zamoskvoretskaya,Vodny stadion,pass,120,120,360,55.84020993,37.48661929
 21,Zamoskvoretskaya,Voykovskaya,pass,120,120,360,55.81892571,37.49779693
 22,Zamoskvoretskaya,Sokol,pass,120,120,360,55.80504488,37.51479324
 23,Zamoskvoretskaya,Aeroport,pass,120,120,360,55.80026391,37.53287747
@@ -107,7 +107,7 @@ id,line_name,station_name,station_type,delay_morning,delay_rush,delay_night,lat,
 105,Kaluzhsko-Rizhskaya,Kaluzhskaya,pass,120,90,360,55.65668319,37.54007713
 106,Kaluzhsko-Rizhskaya,Belyaevo,pass,120,90,360,55.64235707,37.52611914
 107,Kaluzhsko-Rizhskaya,Konkovo,pass,120,90,360,55.63365836,37.52003234
-108,Kaluzhsko-Rizhskaya,Teplyy Stan,pass,120,90,360,55.61873174,37.50591595
+108,Kaluzhsko-Rizhskaya,Teply Stan,pass,120,90,360,55.61873174,37.50591595
 109,Kaluzhsko-Rizhskaya,Yasenevo,pass,120,90,360,55.60618422,37.53340344
 110,Kaluzhsko-Rizhskaya,Novoyasenevskaya,deadend,120,90,360,55.60165876,37.55305003
 111,Tagansko-Krasnopresnenskaya,Planernaya,deadend,180,60,300,55.86053072,37.43638746
@@ -191,5 +191,5 @@ id,line_name,station_name,station_type,delay_morning,delay_rush,delay_night,lat,
 189,Monorels,Ulitsa Milashenkova,pass,540,420,600,55.821876399999994,37.5912115
 190,Monorels,Teletsentr,pass,540,420,600,55.82179898,37.60898217
 191,Monorels,Ulitsa akademika Koroleva,pass,540,420,600,55.82182516,37.62716909
-192,Monorels,Vystavochnyy tsentr,cross,540,420,600,55.82408922,37.63850256
+192,Monorels,Vystavochny tsentr,cross,540,420,600,55.82408922,37.63850256
 193,Monorels,Ulitsa Sergeya Eyzenshteyna,deadend,540,420,600,55.82930753,37.64499978
