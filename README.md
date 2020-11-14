@@ -1,1 +1,1 @@
-# Practical assignments in Network Science classes
+# Practical assignments for Network Science classes
